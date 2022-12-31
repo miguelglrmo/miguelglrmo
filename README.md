@@ -1,4 +1,4 @@
-<img align="right" alt="profile" width=30% src=file:///C:/Users/jvgui/OneDrive/Pictures/me.jpg>
+<img align="right" alt="profile" width=30% src="Pictures/me.jpg />](https://www.google.com/)
 
 <h1>miguelglrmo</h1>
 
