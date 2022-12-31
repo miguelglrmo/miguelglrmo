@@ -1,10 +1,30 @@
-<h1 align="center">Hi 👋, I'm Miguel Guillermo</h1>
-<h3 align="center">A passionate frontend developer from Wisconsin</h3>
+<img align="right" alt="profile" width=30% src="[https://avatars1.githubusercontent.com/u/32025746?s=460&u=b71f51a6d786a0817807f3e953f36734ac4493c7&v=4](https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/321951887_1366018540865091_166066742670733562_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=PY2uWwD_jTcAX_rielA&_nc_ht=scontent-ord5-1.xx&oh=03_AdR9p457Jll24AfMkg2jLHjv4YiUfeVyUGcOOx1d0kA3Nw&oe=63D7596C)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelglrmo&label=Profile%20views&color=0e75b6&style=flat" alt="miguelglrmo" /> </p>
+<h1>miguelglrmo</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelglrmo" alt="miguelglrmo" /></a> </p>
+<p>Hello, my name is Miguel Guillermo
+I'm a 17 year old Developer from Wisconsin,
+Looking to learn more languages in the near future.
 
+<h3>Current Project's</h3>
+<dl>
+  <dt>My Personal Website</dt>
+  <dd>This website is for my personal portfolio</dd>
+  
+  <dt>Pocketmine Plugins</dt>
+  <dd>Currently working on Pocketmine Plugins using PHP</dd>
+
+  
+<details>
+<summary>:zap: Github Stats</summary>
+<a href="https://github.com/miguelglrmo">
+<img align="left" alt="Miguel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miguelglrmo&show_icons=true&theme=tokyonight" />
+<img align="bottom" alt="Miguel's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelglrmo&show_icons=true&theme=tokyonight"/>
+  </details>
+  
+  
+  
+  
 - 🔭 I’m currently working on **Learning Python**
 
 - 🌱 I’m currently learning **Python, JavaScript**
